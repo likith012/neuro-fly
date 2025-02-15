@@ -1,4 +1,4 @@
-# Brain Computer Interface (BCI)
+# neuro-fly
 ### Objective 
 To control a mini multi-rotor UAV through Brain Computer Interface(BCI). UAVs are controlled manually by a remote control. The BCI process involves the cognitive thoughts of the pilot on the transmitter to maneuver the UAV. Through BCI, it is possible to direct the UAV through thoughts without intermediary physical actions.
 ***
